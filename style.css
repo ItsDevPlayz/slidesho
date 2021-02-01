@@ -30,3 +30,12 @@ footer {
     font-family: 'BioRhyme', serif;
     
 }
+#grid img {
+  height: 200px
+      
+}
+#grid label {
+    font-size: 25px; 
+    font-family: 'BioRhyme', serif;
+    
+}
